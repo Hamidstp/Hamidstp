@@ -2,5 +2,5 @@
 blokchain
 trader
 nft
-irdrop
+airdrop
 forex
